@@ -1,0 +1,11 @@
+body {
+  background: rgb(15, 16, 20);
+  color: white;
+  scroll-behavior: smooth;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.App {
+  text-align: center;
+}
